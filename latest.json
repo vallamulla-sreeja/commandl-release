@@ -1,8 +1,7 @@
 {
-    "name": "1.0.0",
-    "productVersion": "1.0.0",
-    "url": "https://github.com/vallamulla-sreeja/commandl-release/releases/download/v1.0.0/commandl-win32-x64.zip",
+    "name": "CommandL",
+    "productVersion": "1.1.0",
+    "url": "https://github.com/vallamulla-sreeja/commandl-release/releases/download/v1.1.0/CommandL.zip",
     "sha256hash": "",
     "runtimeVersion": "win32-x64"
   }
-  
